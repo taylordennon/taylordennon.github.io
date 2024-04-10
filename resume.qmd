@@ -1,86 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Taylor Spurling's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Taylor Spurling
+Data Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/taylorspurling/">LinkedIn Profile</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Phone: 812.371.1447
+- Email: taylorspurling@gmail.com
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+- **Brigham Young University - Idaho**
+  - Bachelor of Science in Business Analytics
+  - Looking to go into Data Analysis
+  - Expert knowledge of Microsoft Office (Excel, Word)
+  - Experience with Data Visualization Programs (Tableau, Power BI/DAX)
+  - Growing understanding of Python, SQL, and R
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+### Brigham Young University - Idaho
+- **Assistant of LMS and Academic Technology Support**
+  - Rexburg, Idaho
+  - April 2020 - July 2024
+  - Provided specialized in-person, email, and phone training and support to over 300 faculty members
+  - Dealt with a variety of programs such as Canvas, Microsoft & Google Suite, Zoom, and Perusall
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Republic Airways
+- **Strategic Operations Intern**
+  - Indianapolis, Indiana
+  - May 2023 - August 2023
+  - Automized a data reconciliation process that originally took 20+ minutes down to less than 5 minutes
+  - Validated company data with many different partners through robust Microsoft Excel formulas
+  - Dashboard creation through Power BI
 
-- Fellow
+### The Church of Jesus Christ of Latter-day Saints
+- **Full-Time Volunteer Representative**
+  - Guided others to set weekly goals and determine plans to accomplish these goals
+  - Served 85+ hours a week
+  - Led weekly and monthly training for 20-30 volunteers
+  - Became fluent in Cambodian (Khmer)
 
+### Adidas
+- **Supervisor/Sales Associate**
+  - Phnom Penh, Cambodia (January 2018 - February 2020)
+  - Edinburg, Indiana (October 2014 - August 2017)
+  - Greeted and interacted with customers by answering questions, improving visual merchandising, and providing customer service
+  - Operated and trained others on cash registers, managed transactions, and balanced cash drawers
+  - Oversaw success of 30+ employees by analyzing daily sales goals and teaching sales tactics
 
+## Applicable Coursework
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Financial & Managerial Accounting
+- Spreadsheet Analysis for Business
+- Database Design & Development
+- Economic Principles Micro & Macro
 
 
 
